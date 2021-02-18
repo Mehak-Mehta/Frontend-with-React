@@ -1,2 +1,2 @@
 # flairs
-PYTHON Fl
+PYTHON FlAIR
