@@ -1,0 +1,11 @@
+body{
+  background-color: black;
+}
+.button{
+  background:transparent;
+  color: aliceblue;
+  border: 2px white solid;
+  border-radius: 25px;
+  
+
+}
