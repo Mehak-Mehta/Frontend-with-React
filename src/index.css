@@ -1,0 +1,27 @@
+body{
+  background-color: black;
+  color: rgb(0, 0, 0);
+}
+.button{
+  background:transparent;
+  color: rgb(0, 0, 0);
+  border: 2px white solid;
+  border-radius: 25px;
+  width: 120px;
+  text-align: center;
+  cursor: pointer;
+
+}
+
+.search{
+  background: transparent;
+  border-radius: 20px;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+
+  color: aliceblue;
+}
