@@ -7,5 +7,4 @@ const Button = ({title}) => {
         </div>
     )
 }
-
 export default Button
