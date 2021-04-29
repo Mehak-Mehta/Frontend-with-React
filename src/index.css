@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(227, 233, 236);
+    font: 25px Arial,Helvetica;
+    text-align: center;
+    display: block;
+    background-image: url('../src/components/Hunter_Exam_Arc.jpg');
+    background-size: cover;
+}
+
+
+
+
+
+
+.h{
+    display: none;
+}
+
+button{
+    cursor: pointer;
+    margin-right: 50px;
+    margin-top: 25px;
+    top: 5px;
+    background: transparent;
+    border: 2px black solid;
+    border-radius: 20px;
+    width: 100px;
+    height: 40px;
+    
+}
+
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+
+
+
+
+ .gon{
+    border: 1px solid rgb(0, 131, 81);
+    background-size: cover;
+    display: inline-block;
+    height: 300px;
+    width: 300px;
+    margin-bottom: 10px;
+    margin-right: 20px;
+    margin-top: 75px;
+    top: 5px;
+    margin-left: 25px;
+    text-align: left;
+    border-radius: 3px;
+    font: 16px;
+
+}
+
+
